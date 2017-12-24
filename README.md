@@ -1,14 +1,10 @@
-## my vagrant's files:
+## myVagrant's files:
 
-#### The bastion Host vagrantFile
+###$ Sharing my vagrant files.
 
-###### On the vagrant host execute:
 
 ```
-vagrant plugin install vagrant-vbguest 
-vagrant up
+BastionHost: A simple bastion host to reach my env.
+AppHost1: In development 
+ZooKeeper: In development 
 ```
-
-Obs.: The plugin vagrant-vbguest is necessary to share folders with the host:
-
-https://github.com/dotless-de/vagrant-vbguest
