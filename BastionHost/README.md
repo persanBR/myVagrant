@@ -5,6 +5,7 @@
 ###### On the vagrant host execute:
 
 ```
+mv BastionHost-Vagrantfile Vagrantfile
 vagrant plugin install vagrant-vbguest 
 vagrant up
 ```
