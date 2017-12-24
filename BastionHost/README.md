@@ -10,10 +10,10 @@ vagrant up
 Obs.: The plugin [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) is necessary to share folders with the host.
 
 
-|Centos 7   |
-| ----------- |
-| awscli        |
-| vim			|
-| putty         |
-| git           |
+|			|Packages       |
+|			| -----------   |
+|Centos 7   | awscli        |
+|			| vim			|
+|			| putty         |
+|			| git           |
 
