@@ -1,8 +1,8 @@
 # myVagrant
 
-## The idea of this repo is to share all my vagrant files:
+##### The idea of this repo is to share all my vagrant files:
 
-###The bastion Host vagrantFile
+###### The bastion Host vagrantFile
 
 On the vagrant host execute:
 ```
