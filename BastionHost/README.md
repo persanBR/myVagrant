@@ -1,4 +1,4 @@
-#### The bastion Host vagrantFile
+#### The bastion Host Vagrantfile
 
 ###### On the vagrant host execute:
 
