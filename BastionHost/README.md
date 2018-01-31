@@ -1,5 +1,10 @@
 #### The bastion Host Vagrantfile
 
+Dependencias
+[VirtualBox (Provider)](https://www.virtualbox.org/wiki/Downloads)
+Vagrant
+
+
 ###### On the vagrant host execute:
 
 ```
