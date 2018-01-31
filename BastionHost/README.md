@@ -1,6 +1,6 @@
 #### The bastion Host Vagrantfile
 
-Dependencias
+###### Dependencias
 
 [VirtualBox (Provider)](https://www.virtualbox.org/wiki/Downloads)
 
